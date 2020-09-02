@@ -16,6 +16,7 @@ body {
 p {
   text-justify: distribute;
   text-align: justify;
+  text-align-last: left;
 }
 
 body::before {
