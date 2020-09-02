@@ -7,6 +7,17 @@ body {
   background: transparent;
 }
 
+
+.justify-distribute{
+  text-justify: distribute;
+  text-align:justify;
+}
+
+p {
+  text-justify: distribute;
+  text-align: justify;
+}
+
 body::before {
   content: "";
   position: fixed;
